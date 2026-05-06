@@ -6,7 +6,7 @@ export function Home(){
     return (
         <div>
             <Header/>
-            <h2>Hello modifiqué acá</h2>
+            <h2>Hello modifiqué acá, deja de modificar ijueputa</h2>
             <LoadedData/>
             <UploadForm/>
         </div>
